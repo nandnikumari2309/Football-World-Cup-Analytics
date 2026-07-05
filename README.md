@@ -112,17 +112,21 @@ Designed three professional dashboards:
 ---
 ## 📊 Dashboard Preview
 
-### Executive Dashboard
+## Excel Dashboard
 
-![Executive Dashboard](Images/Executive_Dashboard.png)
+![Excel Dashboard](Images/Excel Dashboard.png)
 
-### Team Performance Dashboard
+## PowerBI Dashboard 1
 
-![Team Performance](Images/Team_Performance.png)
+![PowerBI Dashboard1](Images/PowerBI Dashboard1.png)
 
-### Match Insights Dashboard
+## PowerBI Dashboard 2
 
-![Match Insights](Images/Match_Insights.png)
+![PowerBI Dashboard2](Images/PowerBI Dashboard2.png)
+
+## PowerBI Dashboard 3
+
+![PowerBI Dashboard3](Images/PowerBI Dashboard3.png)
 
 # 📊 Dashboard Pages
 
