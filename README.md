@@ -110,23 +110,6 @@ Designed three professional dashboards:
 - Added documentation and project structure.
 
 ---
-## 📊 Dashboard Preview
-
-## Excel Dashboard
-
-![Excel Dashboard](Images/Excel Dashboard.png)
-
-## PowerBI Dashboard 1
-
-![PowerBI Dashboard1](Images/PowerBI Dashboard1.png)
-
-## PowerBI Dashboard 2
-
-![PowerBI Dashboard2](Images/PowerBI Dashboard2.png)
-
-## PowerBI Dashboard 3
-
-![PowerBI Dashboard3](Images/PowerBI Dashboard3.png)
 
 # 📊 Dashboard Pages
 
