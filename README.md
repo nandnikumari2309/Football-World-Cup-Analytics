@@ -110,6 +110,19 @@ Designed three professional dashboards:
 - Added documentation and project structure.
 
 ---
+## 📊 Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](Images/Executive_Dashboard.png)
+
+### Team Performance Dashboard
+
+![Team Performance](Images/Team_Performance.png)
+
+### Match Insights Dashboard
+
+![Match Insights](Images/Match_Insights.png)
 
 # 📊 Dashboard Pages
 
@@ -155,28 +168,33 @@ Designed three professional dashboards:
 
 ---
 
-# 📁 Repository Structure
+## 📁 Project Structure
 
-```
 Football-World-Cup-Analytics
-│
+
 ├── Data
-│   ├── Raw Data
-│   └── Cleaned Data
+│ ├── Raw_Data
+│ └── Clean_Data
 │
 ├── Excel
+│ ├── Excel Dashboard.xlsx
+│ └── Football_World_Cup_Analytics.xlsx
 │
 ├── Python
+│ └── Football_Analytics.ipynb
 │
 ├── SQL
+│ └── Football SQL Queries.sql
 │
-├── Power BI
+├── PowerBI
+│ └── Football Dashboard.pbix
 │
 ├── Images
+│ ├── Executive_Dashboard.png
+│ ├── Team_Performance.png
+│ └── Match_Insights.png
 │
-├── Documentation
-│
-└── README.md
+└── Documentation
 ```
 
 ---
