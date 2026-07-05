@@ -1,0 +1,90 @@
+match_id,date,kickoff_time_utc,stage_id,venue_id,home_team_id,away_team_id,home_score,away_score,status,home_xg,away_xg,referee_id,player_of_the_match_id,Total_Goals,Goal_Difference,Match_Result,Match_Year,Match_Month,Home_Team,Away_Team,Goal_Category,Winning_Margin,High_Scoring_Match,Home_Attack_Rating,Away_Attack_Rating,Home_Defense_Rating,Away_Defense_Rating,Home_Goal_Efficiency,Away_Goal_Efficiency,Match_Intensity
+1,11-06-2026,19:00,1,0,1,2,2.0,0.0,Completed,1.84,0.52,1,16.0,2,0,Home Win,2026,June,Mexico,South Africa,Low Scoring,2.0,No,Average,Poor,Excellent,Good,1.09,0.0,Low
+2,11-06-2026,23:00,1,7,3,4,2.0,1.0,Completed,1.45,1.12,2,58.0,3,0,Home Win,2026,June,South Korea,Czechia,Medium Scoring,1.0,No,Average,Poor,Good,Good,1.38,0.89,Medium
+3,12-06-2026,19:00,1,6,5,6,1.0,1.0,Completed,1.35,0.98,3,112.0,2,0,Draw,2026,June,Canada,Bosnia and Herzegovina,Low Scoring,0.0,No,Poor,Poor,Good,Good,0.74,1.02,Low
+4,12-06-2026,23:00,1,3,13,14,4.0,1.0,Completed,2.76,0.88,4,332.0,5,0,Home Win,2026,June,USA,Paraguay,Medium Scoring,3.0,Yes,Strong,Poor,Good,Weak,1.45,1.14,Medium
+5,13-06-2026,15:00,1,10,7,8,1.0,1.0,Completed,0.78,1.54,5,157.0,2,0,Draw,2026,June,Qatar,Switzerland,Low Scoring,0.0,No,Poor,Poor,Good,Good,1.28,0.65,Low
+6,13-06-2026,18:00,1,2,9,10,1.0,1.0,Completed,1.62,1.1,6,215.0,2,0,Draw,2026,June,Brazil,Morocco,Low Scoring,0.0,No,Poor,Poor,Good,Good,0.62,0.91,Low
+7,13-06-2026,21:00,1,14,11,12,0.0,1.0,Completed,1.25,0.65,7,293.0,1,0,Away Win,2026,June,Haiti,Scotland,Low Scoring,1.0,No,Poor,Poor,Good,Excellent,0.0,1.54,Low
+8,13-06-2026,23:59,1,16,15,16,2.0,0.0,Completed,1.48,0.72,8,381.0,2,0,Home Win,2026,June,Australia,TÃ¼rkiye,Low Scoring,2.0,No,Average,Poor,Excellent,Good,1.35,0.0,Low
+9,14-06-2026,15:00,1,9,17,18,7.0,1.0,Completed,4.82,0.44,9,423.0,8,0,Home Win,2026,June,Germany,CuraÃ§ao,High Scoring,6.0,Yes,Strong,Poor,Good,Weak,1.45,2.27,High
+10,14-06-2026,18:00,1,15,21,22,2.0,2.0,Completed,1.95,1.82,10,524.0,4,0,Draw,2026,June,Netherlands,Japan,Medium Scoring,0.0,No,Average,Average,Good,Good,1.03,1.1,Medium
+11,14-06-2026,21:00,1,11,19,20,1.0,0.0,Completed,1.1,0.95,11,479.0,1,0,Home Win,2026,June,CÃ´te d'Ivoire,Ecuador,Low Scoring,1.0,No,Poor,Poor,Excellent,Good,0.91,0.0,Low
+12,14-06-2026,23:59,1,12,23,24,5.0,1.0,Completed,3.12,0.78,12,581.0,6,0,Home Win,2026,June,Sweden,Tunisia,High Scoring,4.0,Yes,Strong,Poor,Good,Weak,1.6,1.28,High
+13,15-06-2026,15:00,1,13,29,30,0.0,0.0,Completed,2.15,0.35,13,755.0,0,0,Draw,2026,June,Spain,Cabo Verde,Low Scoring,0.0,No,Poor,Poor,Excellent,Excellent,0.0,0.0,Low
+14,15-06-2026,18:00,1,4,25,26,1.0,1.0,Completed,1.58,1.12,14,658.0,2,0,Draw,2026,June,Belgium,Egypt,Low Scoring,0.0,No,Poor,Poor,Good,Good,0.63,0.89,Low
+15,15-06-2026,21:00,1,8,31,32,1.0,1.0,Completed,0.85,1.76,15,801.0,2,0,Draw,2026,June,Saudi Arabia,Uruguay,Low Scoring,0.0,No,Poor,Poor,Good,Good,1.18,0.57,Low
+16,15-06-2026,23:59,1,5,27,28,2.0,2.0,Completed,1.88,1.2,16,699.0,4,0,Draw,2026,June,IR Iran,New Zealand,Medium Scoring,0.0,No,Average,Average,Good,Good,1.06,1.67,Medium
+17,16-06-2026,15:00,1,2,33,34,3.0,1.0,Completed,2.44,1.05,1,843.0,4,0,Home Win,2026,June,France,Senegal,Medium Scoring,2.0,No,Average,Poor,Good,Weak,1.23,0.95,Medium
+18,16-06-2026,18:00,1,10,35,36,1.0,4.0,Completed,0.68,2.85,2,919.0,5,0,Away Win,2026,June,Iraq,Norway,Medium Scoring,3.0,Yes,Poor,Strong,Weak,Good,1.47,1.4,Medium
+19,16-06-2026,21:00,1,3,37,38,3.0,0.0,Completed,2.65,0.42,3,946.0,3,0,Home Win,2026,June,Argentina,Algeria,Medium Scoring,3.0,No,Average,Poor,Excellent,Weak,1.13,0.0,Medium
+20,16-06-2026,23:59,1,15,39,40,3.0,1.0,Completed,1.98,0.88,4,1023.0,4,0,Home Win,2026,June,Austria,Jordan,Medium Scoring,2.0,No,Average,Poor,Good,Weak,1.52,1.14,Medium
+21,17-06-2026,15:00,1,9,41,42,1.0,1.0,Completed,1.78,1.15,5,1055.0,2,0,Draw,2026,June,Portugal,Congo DR,Low Scoring,0.0,No,Poor,Poor,Good,Good,0.56,0.87,Low
+22,17-06-2026,18:00,1,13,45,46,4.0,2.0,Completed,2.92,1.64,6,1153.0,6,0,Home Win,2026,June,England,Croatia,High Scoring,2.0,Yes,Strong,Average,Good,Weak,1.37,1.22,High
+23,17-06-2026,21:00,1,11,47,48,1.0,0.0,Completed,1.3,0.75,7,1207.0,1,0,Home Win,2026,June,Ghana,Panama,Low Scoring,1.0,No,Poor,Poor,Excellent,Good,0.77,0.0,Low
+24,17-06-2026,23:59,1,16,43,44,1.0,3.0,Completed,0.95,2.1,8,1125.0,4,0,Away Win,2026,June,Uzbekistan,Colombia,Medium Scoring,2.0,No,Poor,Average,Weak,Good,1.05,1.43,Medium
+25,18-06-2026,15:00,1,9,1,3,1.0,0.0,Completed,1.62,0.58,9,7.0,1,0,Home Win,2026,June,Mexico,South Korea,Low Scoring,1.0,No,Poor,Poor,Excellent,Good,0.62,0.0,Low
+26,18-06-2026,18:00,1,3,4,2,1.0,1.0,Completed,1.35,1.15,10,96.0,2,0,Draw,2026,June,Czechia,South Africa,Low Scoring,0.0,No,Poor,Poor,Good,Good,0.74,0.87,Low
+27,18-06-2026,21:00,1,5,5,7,6.0,0.0,Completed,3.82,0.22,11,114.0,6,0,Home Win,2026,June,Canada,Qatar,High Scoring,6.0,Yes,Strong,Poor,Excellent,Weak,1.57,0.0,High
+28,18-06-2026,23:59,1,1,8,6,4.0,1.0,Completed,2.45,0.88,12,191.0,5,0,Home Win,2026,June,Switzerland,Bosnia and Herzegovina,Medium Scoring,3.0,Yes,Strong,Poor,Good,Weak,1.63,1.14,Medium
+29,19-06-2026,15:00,1,2,9,11,3.0,0.0,Completed,1.16,0.9,13,217.0,3,0,Home Win,2026,June,Brazil,Haiti,Medium Scoring,3.0,No,Average,Poor,Excellent,Weak,2.59,0.0,Medium
+30,19-06-2026,18:00,1,4,12,10,0.0,1.0,Completed,0.97,0.54,14,245.0,1,0,Away Win,2026,June,Scotland,Morocco,Low Scoring,1.0,No,Poor,Poor,Good,Excellent,0.0,1.85,Low
+31,19-06-2026,21:00,1,6,13,15,2.0,0.0,Completed,1.21,0.32,15,332.0,2,0,Home Win,2026,June,USA,Australia,Low Scoring,2.0,No,Average,Poor,Excellent,Good,1.65,0.0,Low
+32,19-06-2026,23:59,1,8,16,14,0.0,1.0,Completed,0.4,0.3,16,361.0,1,0,Away Win,2026,June,TÃ¼rkiye,Paraguay,Low Scoring,1.0,No,Poor,Poor,Good,Excellent,0.0,3.33,Low
+33,20-06-2026,15:00,1,10,17,19,2.0,1.0,Completed,1.85,0.72,1,442.0,3,0,Home Win,2026,June,Germany,CÃ´te d'Ivoire,Medium Scoring,1.0,No,Average,Poor,Good,Good,1.08,1.39,Medium
+34,20-06-2026,18:00,1,12,20,18,0.0,0.0,Completed,1.92,0.08,2,443.0,0,0,Draw,2026,June,Ecuador,CuraÃ§ao,Low Scoring,0.0,No,Poor,Poor,Excellent,Excellent,0.0,0.0,Low
+35,20-06-2026,21:00,1,14,21,23,5.0,1.0,Completed,3.45,0.88,3,531.0,6,0,Home Win,2026,June,Netherlands,Sweden,High Scoring,4.0,Yes,Strong,Poor,Good,Weak,1.45,1.14,High
+36,20-06-2026,23:59,1,16,24,22,0.0,4.0,Completed,0.35,3.12,4,564.0,4,0,Away Win,2026,June,Tunisia,Japan,Medium Scoring,4.0,No,Poor,Strong,Weak,Excellent,0.0,1.28,Medium
+37,21-06-2026,15:00,1,11,25,27,0.0,0.0,Completed,1.45,0.62,5,677.0,0,0,Draw,2026,June,Belgium,IR Iran,Low Scoring,0.0,No,Poor,Poor,Excellent,Excellent,0.0,0.0,Low
+38,21-06-2026,18:00,1,13,28,26,1.0,3.0,Completed,0.55,2.15,6,660.0,4,0,Away Win,2026,June,New Zealand,Egypt,Medium Scoring,2.0,No,Poor,Average,Weak,Good,1.82,1.4,Medium
+39,21-06-2026,21:00,1,15,29,31,4.0,0.0,Completed,3.28,0.25,7,749.0,4,0,Home Win,2026,June,Spain,Saudi Arabia,Medium Scoring,4.0,No,Strong,Poor,Excellent,Weak,1.22,0.0,Medium
+40,21-06-2026,23:59,1,2,32,30,2.0,2.0,Completed,1.65,1.1,8,755.0,4,0,Draw,2026,June,Uruguay,Cabo Verde,Medium Scoring,0.0,No,Average,Average,Good,Good,1.21,1.82,Medium
+41,22-06-2026,15:00,1,4,33,35,3.0,0.0,Completed,2.21,0.45,9,842.0,3,0,Home Win,2026,June,France,Iraq,Medium Scoring,3.0,No,Average,Poor,Excellent,Weak,1.36,0.0,Medium
+42,22-06-2026,18:00,1,6,36,34,3.0,2.0,Completed,1.95,1.48,10,919.0,5,0,Home Win,2026,June,Norway,Senegal,Medium Scoring,1.0,Yes,Average,Average,Good,Weak,1.54,1.35,Medium
+43,22-06-2026,21:00,1,8,37,39,2.0,0.0,Completed,1.78,0.55,11,946.0,2,0,Home Win,2026,June,Argentina,Austria,Low Scoring,2.0,No,Average,Poor,Excellent,Good,1.12,0.0,Low
+44,22-06-2026,23:59,1,10,40,38,1.0,2.0,Completed,0.88,1.92,12,984.0,3,0,Away Win,2026,June,Jordan,Algeria,Medium Scoring,1.0,No,Poor,Average,Good,Good,1.14,1.04,Medium
+45,23-06-2026,15:00,1,12,41,43,5.0,0.0,Completed,3.54,0.42,13,1047.0,5,0,Home Win,2026,June,Portugal,Uzbekistan,Medium Scoring,5.0,Yes,Strong,Poor,Excellent,Weak,1.41,0.0,Medium
+46,23-06-2026,18:00,1,14,44,42,1.0,0.0,Completed,1.62,0.58,14,1120.0,1,0,Home Win,2026,June,Colombia,Congo DR,Low Scoring,1.0,No,Poor,Poor,Excellent,Good,0.62,0.0,Low
+47,23-06-2026,21:00,1,16,45,47,0.0,0.0,Completed,1.12,0.89,15,1147.0,0,0,Draw,2026,June,England,Ghana,Low Scoring,0.0,No,Poor,Poor,Excellent,Excellent,0.0,0.0,Low
+48,23-06-2026,23:59,1,1,48,46,0.0,1.0,Completed,0.42,1.48,16,1181.0,1,0,Away Win,2026,June,Panama,Croatia,Low Scoring,1.0,No,Poor,Poor,Good,Excellent,0.0,0.68,Low
+49,24-06-2026,18:00,1,1,4,1,0.0,3.0,Completed,1.1,1.27,1,20.0,3,0,Away Win,2026,June,Czechia,Mexico,Medium Scoring,3.0,No,Poor,Average,Weak,Excellent,0.0,2.36,Medium
+50,24-06-2026,18:00,1,7,2,3,1.0,0.0,Completed,1.26,1.39,2,38.0,1,0,Home Win,2026,June,South Africa,South Korea,Low Scoring,1.0,No,Poor,Poor,Excellent,Good,0.79,0.0,Low
+51,24-06-2026,22:00,1,5,8,5,2.0,1.0,Completed,0.71,1.35,3,191.0,3,0,Home Win,2026,June,Switzerland,Canada,Medium Scoring,1.0,No,Average,Poor,Good,Good,2.82,0.74,Medium
+52,24-06-2026,22:00,1,6,6,7,3.0,1.0,Completed,1.48,0.95,4,149.0,4,0,Home Win,2026,June,Bosnia and Herzegovina,Qatar,Medium Scoring,2.0,No,Average,Poor,Good,Weak,2.03,1.05,Medium
+53,25-06-2026,18:00,1,2,12,9,0.0,3.0,Completed,0.45,2.18,5,215.0,3,0,Away Win,2026,June,Scotland,Brazil,Medium Scoring,3.0,No,Poor,Average,Weak,Excellent,0.0,1.38,Medium
+54,25-06-2026,18:00,1,10,10,11,4.0,2.0,Completed,2.35,1.12,6,236.0,6,0,Home Win,2026,June,Morocco,Haiti,High Scoring,2.0,Yes,Strong,Average,Good,Weak,1.7,1.79,High
+55,25-06-2026,22:00,1,3,16,13,3.0,2.0,Completed,1.62,1.45,7,398.0,5,0,Home Win,2026,June,TÃ¼rkiye,USA,Medium Scoring,1.0,Yes,Average,Average,Good,Weak,1.85,1.38,Medium
+56,25-06-2026,22:00,1,15,14,15,0.0,0.0,Completed,0.55,0.48,8,339.0,0,0,Draw,2026,June,Paraguay,Australia,Low Scoring,0.0,No,Poor,Poor,Excellent,Excellent,0.0,0.0,Low
+57,26-06-2026,18:00,1,9,20,17,2.0,1.0,Completed,1.28,1.55,9,514.0,3,0,Home Win,2026,June,Ecuador,Germany,Medium Scoring,1.0,No,Average,Poor,Good,Good,1.56,0.65,Medium
+58,26-06-2026,18:00,1,11,18,19,0.0,2.0,Completed,0.32,1.68,10,487.0,2,0,Away Win,2026,June,CuraÃ§ao,CÃ´te d'Ivoire,Low Scoring,2.0,No,Poor,Average,Good,Excellent,0.0,1.19,Low
+59,26-06-2026,22:00,1,12,24,21,1.0,3.0,Completed,0.62,2.15,11,539.0,4,0,Away Win,2026,June,Tunisia,Netherlands,Medium Scoring,2.0,No,Poor,Average,Weak,Good,1.61,1.4,Medium
+60,26-06-2026,22:00,1,16,22,23,1.0,1.0,Completed,1.12,0.95,12,557.0,2,0,Draw,2026,June,Japan,Sweden,Low Scoring,0.0,No,Poor,Poor,Good,Good,0.89,1.05,Low
+61,27-06-2026,18:00,1,4,28,25,1.0,5.0,Completed,0.48,3.25,13,634.0,6,0,Away Win,2026,June,New Zealand,Belgium,High Scoring,4.0,Yes,Poor,Strong,Weak,Good,2.08,1.54,High
+62,27-06-2026,18:00,1,8,26,27,1.0,1.0,Completed,0.85,0.92,14,699.0,2,0,Draw,2026,June,Egypt,IR Iran,Low Scoring,0.0,No,Poor,Poor,Good,Good,1.18,1.09,Low
+63,27-06-2026,22:00,1,13,32,29,0.0,1.0,Completed,0.78,1.35,15,743.0,1,0,Away Win,2026,June,Uruguay,Spain,Low Scoring,1.0,No,Poor,Poor,Good,Excellent,0.0,0.74,Low
+64,27-06-2026,22:00,1,14,30,31,0.0,0.0,Completed,0.42,0.38,16,755.0,0,0,Draw,2026,June,Cabo Verde,Saudi Arabia,Low Scoring,0.0,No,Poor,Poor,Excellent,Excellent,0.0,0.0,Low
+65,26-06-2026,18:00,1,10,36,33,1.0,4.0,Completed,1.3,0.96,1,839.0,5,0,Away Win,2026,June,Norway,France,Medium Scoring,3.0,Yes,Poor,Strong,Weak,Good,0.77,4.17,Medium
+66,26-06-2026,18:00,1,2,34,35,5.0,0.0,Completed,3.01,0.14,2,871.0,5,0,Home Win,2026,June,Senegal,Iraq,Medium Scoring,5.0,Yes,Strong,Poor,Excellent,Weak,1.66,0.0,Medium
+67,27-06-2026,22:00,1,15,40,37,1.0,3.0,Completed,0.76,2.13,3,946.0,4,0,Away Win,2026,June,Jordan,Argentina,Medium Scoring,2.0,No,Poor,Average,Weak,Good,1.32,1.41,Medium
+68,27-06-2026,22:00,1,3,38,39,3.0,3.0,Completed,1.62,1.44,4,969.0,6,0,Draw,2026,June,Algeria,Austria,High Scoring,0.0,Yes,Average,Average,Weak,Weak,1.85,2.08,High
+69,28-06-2026,18:00,1,13,44,41,0.0,0.0,Completed,1.62,0.73,5,1041.0,0,0,Draw,2026,June,Colombia,Portugal,Low Scoring,0.0,No,Poor,Poor,Excellent,Excellent,0.0,0.0,Low
+70,28-06-2026,18:00,1,9,42,43,3.0,1.0,Completed,2.35,0.2,6,1086.0,4,0,Home Win,2026,June,Congo DR,Uzbekistan,Medium Scoring,2.0,No,Average,Poor,Good,Weak,1.28,5.0,Medium
+71,28-06-2026,22:00,1,2,48,45,0.0,2.0,Completed,0.69,1.39,7,1154.0,2,0,Away Win,2026,June,Panama,England,Low Scoring,2.0,No,Poor,Average,Good,Excellent,0.0,1.44,Low
+72,28-06-2026,22:00,1,14,46,47,2.0,1.0,Completed,0.42,0.74,8,1187.0,3,0,Home Win,2026,June,Croatia,Ghana,Medium Scoring,1.0,No,Average,Poor,Good,Good,4.76,1.35,Medium
+73,29-06-2026,12:00,2,3,2,5,0.0,1.0,Completed,0.13,1.32,9,111.0,1,0,Away Win,2026,June,South Africa,Canada,Low Scoring,1.0,No,Poor,Poor,Good,Excellent,0.0,0.76,Low
+74,29-06-2026,23:00,2,11,9,22,2.0,1.0,Completed,1.69,0.23,10,213.0,3,0,Home Win,2026,June,Brazil,Japan,Medium Scoring,1.0,No,Average,Poor,Good,Good,1.18,4.35,Medium
+75,30-06-2026,2:30,2,10,17,14,1.0,1.0,Completed,0.72,0.42,11,350.0,2,0,Draw,2026,June,Germany,Paraguay,Low Scoring,0.0,No,Poor,Poor,Good,Good,1.39,2.38,Low
+76,30-06-2026,7:00,2,8,21,10,1.0,1.0,Completed,0.23,1.4,12,248.0,2,0,Draw,2026,June,Netherlands,Morocco,Low Scoring,0.0,No,Poor,Poor,Good,Good,4.35,0.71,Low
+77,30-06-2026,23:00,2,4,19,36,1.0,2.0,Completed,1.15,2.02,13,930.0,3,0,Away Win,2026,June,CÃ´te d'Ivoire,Norway,Medium Scoring,1.0,No,Poor,Average,Good,Good,0.87,0.99,Medium
+78,01-07-2026,3:00,2,2,33,23,3.0,0.0,Completed,3.17,0.67,14,842.0,3,0,Home Win,2026,July,France,Sweden,Medium Scoring,3.0,No,Average,Poor,Excellent,Weak,0.95,0.0,Medium
+79,01-07-2026,7:00,2,1,1,20,2.0,0.0,Completed,1.02,0.73,15,16.0,2,0,Home Win,2026,July,Mexico,Ecuador,Low Scoring,2.0,No,Average,Poor,Excellent,Good,1.96,0.0,Low
+80,01-07-2026,22:00,2,9,45,42,2.0,1.0,Completed,2.04,0.76,16,,3,0,Home Win,2026,July,England,Congo DR,Medium Scoring,1.0,No,Average,Poor,Good,Good,0.98,1.32,Medium
+81,02-07-2026,2:00,2,16,25,34,3.0,2.0,Completed,1.74,3.58,1,632.0,5,0,Home Win,2026,July,Belgium,Senegal,Medium Scoring,1.0,Yes,Average,Average,Good,Weak,1.72,0.56,Medium
+82,02-07-2026,6:00,2,15,13,6,2.0,0.0,Completed,0.92,0.25,2,329.0,2,0,Home Win,2026,July,USA,Bosnia and Herzegovina,Low Scoring,2.0,No,Average,Poor,Excellent,Good,2.17,0.0,Low
+83,03-07-2026,1:00,2,3,29,39,3.0,0.0,Completed,2.84,0.32,3,749.0,3,0,Home Win,2026,July,Spain,Austria,Medium Scoring,3.0,No,Average,Poor,Excellent,Weak,1.06,0.0,Medium
+84,03-07-2026,5:00,2,6,41,46,2.0,1.0,Completed,2.18,1.34,4,1047.0,3,0,Home Win,2026,July,Portugal,Croatia,Medium Scoring,1.0,No,Average,Poor,Good,Good,0.92,0.75,Medium
+85,03-07-2026,9:00,2,5,8,38,2.0,0.0,Completed,2.52,0.73,5,189.0,2,0,Home Win,2026,July,Switzerland,Algeria,Low Scoring,2.0,No,Average,Poor,Excellent,Good,0.79,0.0,Low
+86,04-07-2026,0:00,2,4,15,26,,,Scheduled,,,6,,0,0,Draw,2026,July,Australia,Egypt,Low Scoring,,No,Strong,Strong,Weak,Weak,,,Low
+87,04-07-2026,4:00,2,13,37,30,,,Scheduled,,,7,,0,0,Draw,2026,July,Argentina,Cabo Verde,Low Scoring,,No,Strong,Strong,Weak,Weak,,,Low
+88,04-07-2026,7:30,2,12,44,47,,,Scheduled,,,8,,0,0,Draw,2026,July,Colombia,Ghana,Low Scoring,,No,Strong,Strong,Weak,Weak,,,Low
+89,04-07-2026,23:00,3,11,5,14,,,Scheduled,,,9,,0,0,Draw,2026,July,Canada,Paraguay,Low Scoring,,No,Strong,Strong,Weak,Weak,,,Low
