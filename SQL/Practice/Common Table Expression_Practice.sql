@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 Project: Football Analytics
 Topic: Common Table Expressions (CTE)
@@ -83,4 +84,91 @@ WITH TeamGoals AS
 
 SELECT *
 FROM TeamGoals
+=======
+/*
+Project: Football Analytics
+Topic: Common Table Expressions (CTE)
+Database: FootballAnalytics
+*/
+
+
+-- Create a CTE for match results
+
+WITH MatchResults AS
+(
+    SELECT
+        Home_Team,
+        Away_Team,
+        home_score,
+        away_score
+    FROM dbo.football_final_dataset
+)
+
+SELECT *
+FROM MatchResults;
+
+
+-- Display only home wins using CTE
+
+WITH HomeWins AS
+(
+    SELECT
+        Home_Team,
+        Away_Team,
+        home_score,
+        away_score
+    FROM dbo.football_final_dataset
+    WHERE home_score > away_score
+)
+
+SELECT *
+FROM HomeWins;
+
+
+-- Display matches with more than 4 total goals
+
+WITH HighScoringMatches AS
+(
+    SELECT
+        Home_Team,
+        Away_Team,
+        Total_Goals
+    FROM dbo.football_final_dataset
+    WHERE Total_Goals > 4
+)
+
+SELECT *
+FROM HighScoringMatches;
+
+
+-- Calculate average home goals by team using CTE
+
+WITH TeamGoals AS
+(
+    SELECT
+        Home_Team,
+        AVG(home_score) AS Avg_Home_Goals
+    FROM dbo.football_final_dataset
+    GROUP BY Home_Team
+)
+
+SELECT *
+FROM TeamGoals
+ORDER BY Avg_Home_Goals DESC;
+
+
+-- Show teams averaging more than 1.5 home goals
+
+WITH TeamGoals AS
+(
+    SELECT
+        Home_Team,
+        AVG(home_score) AS Avg_Home_Goals
+    FROM dbo.football_final_dataset
+    GROUP BY Home_Team
+)
+
+SELECT *
+FROM TeamGoals
+>>>>>>> b0c2e16c875d4670cf09eb091a1b5904f49b3158
 WHERE Avg_Home_Goals > 1.5;
